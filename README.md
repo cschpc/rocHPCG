@@ -16,7 +16,7 @@ rocHPCG is a benchmark based on the [HPCG][] benchmark application, implemented 
 You can build rocHPCG using the *install.sh* script
 ```
 # Clone rocHPCG using git
-git clone https://github.com/ROCmSoftwarePlatform/rocHPCG.git
+git clone https://github.com/cschpc/rocHPCG.git
 
 # Go to rocHPCG directory
 cd rocHPCG
